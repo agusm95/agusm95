@@ -2,7 +2,7 @@
 <h3 align="center">Apasionados por el análisis y mundo de los datos</h3>
 
 
-- 💬 Pregúntame sobre **Python, SQL, PowerBi, Machine Learning, docker **
+- 💬 Pregúntame sobre **Python, SQL, PowerBi, Machine Learning, docker**
 
 - 📫 Contactame **agustin120895@gmail.com**
 
