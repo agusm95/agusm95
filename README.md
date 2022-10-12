@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, Soy Agus</h1>
 <h3 align="center">Apasionados por el análisis y mundo de los datos</h3>
 
+
+- 💬 Pregúntame sobre **Python, SQL, PowerBi, Machine Learning, docker **
+
+- 📫 Contactame **agustin120895@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agustin-montero-93910b216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-montero-93910b216/" height="30" width="40" /></a>
