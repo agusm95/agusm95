@@ -2,9 +2,17 @@
 <h3 align="center">Apasionados por el análisis y mundo de los datos</h3>
 
 
-- 💬 Pregúntame sobre **Python, SQL, PowerBi, Machine Learning, docker**
-
+- 💬 En esta página podrán encontrar todos mis proyectos de Data Science.
+- 💼 Entre ellos, se incluyen dos trabajos realizados en el marco de Acámica y tres trabajos en Henry.
 - 📫 Contactame **agustin120895@gmail.com**
+
+📚 HENRY :
+
+Proyecto final realizado grupalmente, con la colaboracion de Cristina Zamorano, Jhon Lirion, Geronimo Gippener y Alex Rodriguez,sobre la emisión de CO2 y la contaminación que genera al medio ambiente. Usamos las tecnologías: Python, SQL, Django, streamlit, pandas, plotly entre otras. 
+Desarrollar ingeniería de datos (como se obtienen y transforman los datos), datawarehouse y machine learning para realizar predicciones sobre métricas en particular.
+Analizamos los datasets brindados y recopilamos de otras fuentes, para poder realizar un análisis, identificando las problemáticas.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
