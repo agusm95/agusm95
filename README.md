@@ -15,6 +15,8 @@ Analizamos los datasets brindados y recopilamos de otras fuentes, para poder rea
 **https://mapa-emisiones-production.up.railway.app/**
 
 2)Proyecto realizado individual con henry sobre el COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización, donde realizamos una analisís exploratorio, reporte de calidad de datos, informe y visualizaciones sobre el covid
+
+**https://github.com/agusm95/DS-PI-ProyectoIndividual**
   
 📚 Coderhouse:
 
@@ -23,6 +25,8 @@ ventas electrónicas durante estos años pero sobre todo en el año más afectad
 covid-19 (año 2020) y así informar el éxito que tuvo en los comercios, PYMES, particulares
 minoristas que se adaptaron o ya se habían adaptado al e-commerce y fomentar a los que
 todavía no lo hicieron.
+
+**https://github.com/agusm95/Proyecto-Amazon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
