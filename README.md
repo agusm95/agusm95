@@ -20,7 +20,7 @@ Analizamos los datasets brindados y recopilamos de otras fuentes, para poder rea
   
 📚 Coderhouse:
 
-1)Proyecto realizado sobre las ventas online de Amazon. La propuesta de proyecto está destinada a mostrar el éxito que tuvo esta revolución de las
+1)Proyecto realizado sobre las ventas online de Amazon en Power Bi. La propuesta de proyecto está destinada a mostrar el éxito que tuvo esta revolución de las
 ventas electrónicas durante estos años pero sobre todo en el año más afectado por el
 covid-19 (año 2020) y así informar el éxito que tuvo en los comercios, PYMES, particulares
 minoristas que se adaptaron o ya se habían adaptado al e-commerce y fomentar a los que
