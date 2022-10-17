@@ -12,8 +12,15 @@
 Desarrollar ingeniería de datos (como se obtienen y transforman los datos), datawarehouse y machine learning para realizar predicciones sobre métricas en particular.
 Analizamos los datasets brindados y recopilamos de otras fuentes, para poder realizar un análisis, identificando las problemáticas.
 
+2)Proyecto realizado individual con henry sobre el COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización, donde realizamos una analisís exploratorio, reporte de calidad de datos, informe y visualizaciones sobre el covid
+  
+📚 Coderhouse:
 
-  2)Proyecto realizado individual con henry sobre el COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización, donde realizamos una analisís exploratorio, reporte de calidad de datos, informe y visualizaciones sobre el covid
+1)Proyecto realizado sobre las ventas online de Amazon. La propuesta de proyecto está destinada a mostrar el éxito que tuvo esta revolución de las
+ventas electrónicas durante estos años pero sobre todo en el año más afectado por el
+covid-19 (año 2020) y así informar el éxito que tuvo en los comercios, PYMES, particulares
+minoristas que se adaptaron o ya se habían adaptado al e-commerce y fomentar a los que
+todavía no lo hicieron.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
