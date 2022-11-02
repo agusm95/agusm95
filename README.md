@@ -12,7 +12,7 @@
 Desarrollar ingeniería de datos (como se obtienen y transforman los datos), datawarehouse y machine learning para realizar predicciones sobre métricas en particular.
 Analizamos los datasets brindados y recopilamos de otras fuentes, para poder realizar un análisis, identificando las problemáticas.
 
-**(https://github.com/agusm95/emissionsmap)**
+**(https://mapa-emisiones-production-9db6.up.railway.app/#))**
 
 2)Proyecto realizado individual con henry sobre el COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización, donde realizamos una analisís exploratorio, reporte de calidad de datos, informe y visualizaciones sobre el covid
 
