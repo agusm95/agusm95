@@ -28,6 +28,15 @@ todavía no lo hicieron.
 
 **https://github.com/agusm95/Proyecto-Amazon**
 
+📚 Proyectos personales:
+
+1)Analisis del desempeño de las acciones de las mejores empresas del mundo. Los datos se obtuvieron con la biblioteca Python 'yfinance' que extrae los datos de 'Yahoo! Finanzas'.Con lo cual realice el proceso de ETL(extrac,transform, load), mediante Python, despues pasamos a una base de datos con MySql, en el cual finalmente cargamos las tablas a Power Bi para el desempeño de Dashboard.
+
+**https://github.com/agusm95/Stock_market**
+
+2)Proyecto de ETL
+**https://github.com/agusm95/Alkemy_etl1**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agustin-montero-93910b216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-montero-93910b216/" height="30" width="40" /></a>
